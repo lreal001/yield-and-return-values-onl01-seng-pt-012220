@@ -1,5 +1,5 @@
 require 'pry'
-array = ["Tim", "Tom", "Jim"]
+
 def hello(array)
  
   i = 0 
