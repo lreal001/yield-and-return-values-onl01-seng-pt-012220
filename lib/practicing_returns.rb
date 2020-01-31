@@ -1,8 +1,8 @@
 require 'pry'
 array = ["Tim", "Tom", "Jim"]
 def hello(array)
-  collection = []
-  i = 0
+ 
+  i = 0 collection = []
   while i < array.length 
   
     yield(array[i])
